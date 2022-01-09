@@ -1,0 +1,6 @@
+apt install git
+apt update && upgrade
+git clone https://github.com/shravan1829/shravan1829
+cd shravan1829
+ls
+shravan1829
